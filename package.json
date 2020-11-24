@@ -1,0 +1,12 @@
+{
+    "name": "quadsat",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-6V5G5HR.json",
+            "credentialsFile": "flows_DESKTOP-6V5G5HR_cred.json"
+        }
+    }
+}
